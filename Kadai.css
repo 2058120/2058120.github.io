@@ -6,3 +6,6 @@ p.Bl1 { text-align: center;
         color:#4de1ff;
         }
 p.Bl2 { text-align: center}
+footer{ position: absolute;
+        bottom: 0;
+}
